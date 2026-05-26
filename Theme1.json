@@ -1,1 +1,8 @@
-
+{
+  "name": "Neo Glass",
+  "primary": "#5EEBFF",
+  "secondary": "#7B61FF",
+  "background": "#0B0F19",
+  "card": "#151B2C",
+  "accent": "#FF4D8D"
+}
